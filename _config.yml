@@ -1,0 +1,28 @@
+name: "JoPo's Place"
+favicon: null
+layout_spectrum: 0.17796724196523428
+typography_spectrum: 0.8219685950316489
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9958622122649103
+  lightness: 0.3945859931409359
+  saturation: 0.4977595335803926
+  rhythmicContrast: 0.6665104634594172
+purpose: []
