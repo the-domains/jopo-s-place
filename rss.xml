@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[JoPo's Place]]></title>
         <description><![CDATA[JoPo's Place]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jopo-s-place/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 21:30:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 21:31:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jopo-s-place/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/jopo-s-place/650f32e8-5c00-4183-8632-0ae85115eb17/index.html</link>
+            <guid isPermaLink="false">650f32e8-5c00-4183-8632-0ae85115eb17</guid>
+            <pubDate>Fri, 01 Apr 2016 21:30:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ok - I don't get it</p>]]></description>
-            <link>undefined3f236d95-04b2-48fe-a49f-2aa3e3edbb8e/index.html</link>
+            <link>https://thegrid.ai/jopo-s-place/3f236d95-04b2-48fe-a49f-2aa3e3edbb8e/index.html</link>
             <guid isPermaLink="false">3f236d95-04b2-48fe-a49f-2aa3e3edbb8e</guid>
             <pubDate>Fri, 01 Apr 2016 21:30:46 GMT</pubDate>
         </item>
